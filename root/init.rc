@@ -2,7 +2,7 @@
 #
 # IMPORTANT: Do not create world writable files or directories.
 # This is a common source of Android security bugs.
-#gf
+#
 
 #import /init.${ro.hardware}.rc
 import /init.usb.rc
