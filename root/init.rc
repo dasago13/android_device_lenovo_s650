@@ -6,9 +6,11 @@
 
 #import /init.${ro.hardware}.rc
 import /init.usb.rc
-import /init.modem.rc
-import /init.protect.rc
+import /init.trace.rc
 
+import /FWUpgradeInit.rc
+
+import init.xlog.rc
 
 on early-init
     # Set init and its forked children's oom_adj.
