@@ -5,4 +5,5 @@ include $(CLEAR_VARS)
 ALL_PREBUILT += $(INSTALLED_KERNEL_TARGET)
 
 # include the non-open-source counterpart to this file
+# not available for the moment
 -include vendor/lenovo/s650/AndroidBoardVendor.mk
