@@ -1,5 +1,5 @@
 #init.protect.rc
-#
+
 on early-init
 #create mount point for protect partition
 
