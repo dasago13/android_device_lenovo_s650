@@ -1,2 +1,2 @@
-android_device_lenovo_s650
+Working on it..
 ==========================
