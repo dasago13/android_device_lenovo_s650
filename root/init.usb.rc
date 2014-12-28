@@ -1,4 +1,4 @@
-on init
+on init#
 # Workarunod for USB unknow device issue
 # USB would switch correct function when set properity sys.usb.config
     setprop sys.usb.vid 17EF
